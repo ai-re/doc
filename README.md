@@ -62,3 +62,5 @@ Software-Learning-Projects:
 - Libreboot:                www.libreboot.org
 - GRUB2:                https://www.gnu.org/software/grub/grub-download.html
 - BareBox:                www.barebox.org
+- Mini-arm-OS.............https://github.com/jserv/mini-arm-os
+- Frosted.................https://github.com/insane-adding-machines/frosted
